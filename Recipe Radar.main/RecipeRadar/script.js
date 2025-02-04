@@ -1,5 +1,5 @@
-const SPOONACULAR_API_KEY = "789386a974154d96bd1d5d094b5be201"; // Replace with your Spoonacular API key
-const YOUTUBE_API_KEY = "AIzaSyAxmo_0PcbDWRN0V0XYjfoSbY8o22dy4lA"; // Replace with your YouTube Data API key
+const SPOONACULAR_API_KEY = "YOUR API KEY "; // Replace with your Spoonacular API key
+const YOUTUBE_API_KEY = "YOUR API KEY"; // Replace with your YouTube Data API key
 
 function getMealList() {
     const ingredients = document.getElementById("search-input").value.trim();
